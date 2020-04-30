@@ -4,7 +4,6 @@
 Prof. Maochao Xu (Department of Mathematics, Illinois State University) 
 
 
-
 Yan Xu and Prof. Shouhuai Xu (Department of Computer Science, University of Texas at San Antonio)
 
 
