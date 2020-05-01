@@ -26,11 +26,11 @@ We plan to publish our multiple-day ahead forecasting soon.
 If you have any questions, please email to the POC.
 
 
-US nation
+Country
 ---------
 
 
-[Click here for prediction for Country.](https://cosima9586.github.io/img/us.html)
+[Click here for prediction for United States.](https://cosima9586.github.io/img/us.html)
 
 
 States
