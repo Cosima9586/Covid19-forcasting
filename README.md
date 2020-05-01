@@ -19,7 +19,8 @@ Point of Contact: Prof. Shouhuai Xu (shxu@cs.utsa.edu)
 
 In response to the COVID-19 pandemic, we have been conducting data analytics research with the aim to forecast/predict the evolution of the pandemic. At this point in time, we are publishing our one-day ahead forecasting of confirmed cases and death cases for each county in Texas and each State in the United States. More specifically, we publish our forecasting for the next day and contrast our forecasting to the next-day data when it is published by [NYTimes](https://github.com/nytimes/covid-19-data?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=85609380&_hsenc=p2ANqtz--Es1TD-LA9n2POTrLqt7EPJjUu0FWX-lXafIObmG2HGv_QrQD3Fkj_Ho4zMvCxAV2Jm5QJUoqdbmnXbY0ZXw8-r35H_Q&_hsmi=85609380). Our time series forecasting models are trained from the NYTimes dataset. 
 
-For example, for April 30, we forecast there are 1357 confirmed cases in Bexar county, Texas based on the NYTimes data up to April 29 for training the forecasting model. On April 30, we observe ?? confirmed cases. This means our forecasting is ?? confirmed cases more/less?? than the actually observed cases.
+For example, on April 29, we forecast there will be 1,357 confirmed cases in Bexar county, Texas based on our model trained from the NYTimes data up to April 29. On May 1, NYTimes publishes that there were ?? confirmed cases on April 30. This means our one-day-ahead forecasting is ?? confirmed cases more/less?? than the actually observed cases.
+
 
 We plan to publish our multiple-day ahead forecasting soon.
 
