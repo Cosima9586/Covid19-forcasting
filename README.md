@@ -30,7 +30,7 @@ US nation
 ---------
 
 
-[Click here for prediction for us nation.](https://cosima9586.github.io/img/us.html)
+[Click here for prediction for Country.](https://cosima9586.github.io/img/us.html)
 
 
 States
