@@ -39,16 +39,16 @@ Country
 
 ## Top 10 Counties
 
-- [Los Angeles](https://cosima9586.github.io/img/us-counties/California-Los-Angeles.html)
-- [San Diego](https://cosima9586.github.io/img/us-counties/California-San-Diego.html)
-- [San Francisco](https://cosima9586.github.io/img/us-counties/California-San-Francisco.html)
-- [Denver](https://cosima9586.github.io/img/us-counties/Colorado-Denver.html)
 - [New York City](https://cosima9586.github.io/img/us-counties/New-York-New-York-City.html)
-- [Columbus](https://cosima9586.github.io/img/us-counties/North-Carolina-Columbus.html)
-- [Philadelphia](https://cosima9586.github.io/img/us-counties/Pennsylvania-Philadelphia.html)
+- [Los Angeles](https://cosima9586.github.io/img/us-counties/California-Los-Angeles.html)
 - [Houston](https://cosima9586.github.io/img/us-counties/Texas-Houston.html)
+- [Philadelphia](https://cosima9586.github.io/img/us-counties/Pennsylvania-Philadelphia.html)
+- [San Diego](https://cosima9586.github.io/img/us-counties/California-San-Diego.html)
 - [Dallas](https://cosima9586.github.io/img/us-counties/Texas-Dallas.html)
 - [Austin](https://cosima9586.github.io/img/us-counties/Texas-Austin.html)
+- [Columbus](https://cosima9586.github.io/img/us-counties/North-Carolina-Columbus.html)
+- [San Francisco](https://cosima9586.github.io/img/us-counties/California-San-Francisco.html)
+- [Denver](https://cosima9586.github.io/img/us-counties/Colorado-Denver.html)
 
 
 
