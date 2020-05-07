@@ -49,8 +49,7 @@ Country
 |[Houston](https://cosima9586.github.io/img/us-counties/Texas-Houston.html)
 |[Dallas](https://cosima9586.github.io/img/us-counties/Texas-Dallas.html)
 |[Austin](https://cosima9586.github.io/img/us-counties/Texas-Austin.html)
-
-
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 States
