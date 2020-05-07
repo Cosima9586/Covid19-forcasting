@@ -38,7 +38,8 @@ Country
 
 
 ## Top 10 Counties
-
+||||| | | |  | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Los Angeles](https://cosima9586.github.io/img/us-counties/California-Los-Angeles.html)
 |[San Diego](https://cosima9586.github.io/img/us-counties/California-San-Diego.html)
 |[San Francisco](https://cosima9586.github.io/img/us-counties/California-San-Francisco.html)
@@ -49,7 +50,7 @@ Country
 |[Houston](https://cosima9586.github.io/img/us-counties/Texas-Houston.html)
 |[Dallas](https://cosima9586.github.io/img/us-counties/Texas-Dallas.html)
 |[Austin](https://cosima9586.github.io/img/us-counties/Texas-Austin.html)
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 
 
 States
