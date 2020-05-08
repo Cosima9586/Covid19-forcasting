@@ -39,16 +39,13 @@ Country
 
 ## Top 10 Counties
 
-- [New York City](https://cosima9586.github.io/img/us-counties/New-York-New-York-City.html)
-- [Los Angeles](https://cosima9586.github.io/img/us-counties/California-Los-Angeles.html)
-- [Houston](https://cosima9586.github.io/img/us-counties/Texas-Houston.html)
-- [Philadelphia](https://cosima9586.github.io/img/us-counties/Pennsylvania-Philadelphia.html)
-- [San Diego](https://cosima9586.github.io/img/us-counties/California-San-Diego.html)
-- [Dallas](https://cosima9586.github.io/img/us-counties/Texas-Dallas.html)
-- [Austin](https://cosima9586.github.io/img/us-counties/Texas-Austin.html)
-- [Columbus](https://cosima9586.github.io/img/us-counties/North-Carolina-Columbus.html)
-- [San Francisco](https://cosima9586.github.io/img/us-counties/California-San-Francisco.html)
-- [Denver](https://cosima9586.github.io/img/us-counties/Colorado-Denver.html)
+Top 10 Cities (These Top 10 Cities are based on [List of United States cities by population](https://en.m.wikipedia.org/wiki/List_of_United_States_cities_by_population) and their availability of data as published by New York Times. For example, San Antonio is not listed here because the New York Times data does not contain an entry in its. On the other hand, the LA City listed here may actually mean LA County as we extract the data provided by New York Times).
+
+||||||
+| :---: | :---: | :---: | :---: | :---: |
+
+|[New York City](https://cosima9586.github.io/img/us-counties/New-York-New-York-City.html)|[Los Angeles](https://cosima9586.github.io/img/us-counties/California-Los-Angeles.html)|[Houston](https://cosima9586.github.io/img/us-counties/Texas-Houston.html)|[Philadelphia](https://cosima9586.github.io/img/us-counties/Pennsylvania-Philadelphia.html)|[San Diego](https://cosima9586.github.io/img/us-counties/California-San-Diego.html)|
+|[Dallas](https://cosima9586.github.io/img/us-counties/Texas-Dallas.html)|[Austin](https://cosima9586.github.io/img/us-counties/Texas-Austin.html)|[Columbus](https://cosima9586.github.io/img/us-counties/North-Carolina-Columbus.html)|[San Francisco](https://cosima9586.github.io/img/us-counties/California-San-Francisco.html)|[Denver](https://cosima9586.github.io/img/us-counties/Colorado-Denver.html)
 
 
 
