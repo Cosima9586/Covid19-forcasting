@@ -37,7 +37,7 @@ Country
 [Click here for prediction for United States.](https://cosima9586.github.io/img/us.html)
 
 
-## Top 10 Counties
+## Top 10 Cities
 
 Top 10 Cities (These Top 10 Cities are based on [List of United States cities by population](https://en.m.wikipedia.org/wiki/List_of_United_States_cities_by_population) and their availability of data as published by New York Times. For example, San Antonio is not listed here because the New York Times data does not contain an entry in its. On the other hand, the LA City listed here may actually mean LA County as we extract the data provided by New York Times).
 
