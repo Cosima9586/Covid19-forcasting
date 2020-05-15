@@ -31,7 +31,7 @@ If you have any questions, please email to the POC.
 
 
 
-[Click here for 1-day ahead prediction](https://github.com/Cosima9586/Covid19-forcasting/blob/master/one-day-ahead.md)
+[Click here for 1-day ahead predictions](https://github.com/Cosima9586/Covid19-forcasting/blob/master/one-day-ahead.md)
 
-[Click here for 7-day ahead prediction](https://github.com/Cosima9586/Covid19-forcasting/blob/master/7-day-ahead.md)
+[Click here for 7-day ahead predictions](https://github.com/Cosima9586/Covid19-forcasting/blob/master/7-day-ahead.md)
 
