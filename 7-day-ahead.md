@@ -24,7 +24,7 @@ States
 
 ## New York City
 
-[Click here for prediction for New York City](https://cosima9586.github.io/img/img7ahead/us-counties/New-York-New-York-City.html)
+[Click here for prediction for New York City](https://cosima9586.github.io/img/img7ahead/us-counties/New%20York-New%20York%20City.html)
 
 
 Texas Counties
