@@ -1,4 +1,4 @@
-# 7-day ahead prediction
+# 7-day ahead predictions
 
 
 Country
