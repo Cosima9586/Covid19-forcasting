@@ -1,2 +1,8 @@
-date,cases,deaths,confirmed_cases,confirmed_deaths,probable_cases,probable_deaths
-2020-05-31,4,0.0,4.0,0.0,,
+date,cases,deaths
+2020-05-24,1,0
+2020-05-25,1,0
+2020-05-26,2,0
+2020-05-27,2,0
+2020-05-28,3,0
+2020-05-29,3,0
+2020-05-30,4,0
